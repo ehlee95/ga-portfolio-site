@@ -9,6 +9,10 @@ body {
     margin-top: 25px;
 }
 
+ul {
+    list-style-type: square;
+}
+
 #image {
     text-align: center;
 }
